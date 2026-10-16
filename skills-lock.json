@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-reach": {
+      "source": "rheinmir/skills",
+      "sourceType": "github",
+      "skillPath": "skills/external/agent-reach/SKILL.md",
+      "computedHash": "02f8cd3e73ea56d7a157d05f5acd422eb00ddd32f61d054644b6e50606d9dd55"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
+    },
+    "humanizer": {
+      "source": "blader/humanizer",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "fa4ffac562a8e7349282f606391ede22d23118e998dc8b5ac931662fa734c1b7"
+    },
+    "hyperframes": {
+      "source": "heygen-com/hyperframes",
+      "sourceType": "github",
+      "skillPath": "skills/hyperframes/SKILL.md",
+      "computedHash": "1e613b9a542ece5b80bc6cbe255a58ca9b9fbe22d506e39e6890ad5eb1a66f15"
+    },
+    "proactive-agent": {
+      "source": "halthelobster/proactive-agent",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "05da068bbc7c8ba1ba27356d67d8dd16c9bad14d2f05d8568128636b18d60739"
+    },
+    "remotion-best-practices": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-best-practices/SKILL.md",
+      "computedHash": "c2f1c22a68d1965d3c43b870b0632a074de82053df45bfb5fc58d77e9d907a2c"
+    },
+    "self-improving-agent": {
+      "source": "pskoett/self-improving-agent",
+      "sourceType": "github",
+      "skillPath": "self-improving-agent/SKILL.md",
+      "computedHash": "bf01cda578b6d8253591814b2aa72c6bcf2bab4cabe6f822353fe27c01ea7af0"
+    }
+  }
+}
